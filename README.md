@@ -4,7 +4,9 @@ You can customize:
 - ⏰ Time format (`HH:mm`)
 
 ---
-
+## Demo
+![Demo](example.gif)
+---
 ## Installation
 
 ### Manual Installation
