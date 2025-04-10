@@ -1,0 +1,9 @@
+{
+	"id": "minimal-task",
+	"name": "minimal task",
+	"version": "1.0.0",
+	"author": "dosakkhayo",
+	"description": "Automatically moves checked tasks to another file.",
+	"main": "main.js",
+	"minAppVersion": "0.12.0"
+  }  
